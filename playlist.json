@@ -1,0 +1,54 @@
+{
+	"playlist" : [
+		{
+			"tenbaihat" : "Một Vụ Mất Tích Kỳ Lạ",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/01-mot_vu_mat_tich_ky_la.mp3"
+		},
+		{
+			"tenbaihat" : "Chàng Quý Tộc Độc Thân",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/02-chang_quy_toc_doc_than.mp3"
+		},
+		{
+			"tenbaihat" : "Vụ Án Tại Thung Lũng Boscom",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/03-vu_an_tai_thung_lung_boscom.mp3"
+		},
+		{
+			"tenbaihat" : "Kẻ Dị Dạng",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/04-ke_di_dang.mp3"
+		},
+		{
+			"tenbaihat" : "Chiếc Vương Miện Bằng Ngọc Berin",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/05-chiec_vuong_mien_bang_ngoc_berin.mp3"
+		},
+		{
+			"tenbaihat" : "Người Khách Trọ Được Hưởng Bóng Lộc",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/06-nguoi_khach_tro_duoc_huong_bong_loc.mp3"
+		},
+		{
+			"tenbaihat" : "Công Việc Sau Cùng Của Holmes",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/07-cong_viec_sau_cung_cua_holmes.mp3"
+		},
+		{
+			"tenbaihat" : "Ngôi Nhà Trong Không",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/08-ngoi_nha_trong_khong.mp3"
+		},
+		{
+			"tenbaihat" : "Nhà Thầu Khoáng Ở North Hut",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/09-nha_thau_khoang_o_north_hut.mp3"
+		},
+		{
+			"tenbaihat" : "Sherlock Holmes Hấp Hối",
+			"trinhbay" : "Thám Tử Sherlock Holmes",
+			"url" : "http://archive.org/download/sachnoi.vn-thamTuSherlockHolmes/10-sherlock_holmes_hap_hoi.mp3"
+		}
+	]
+}

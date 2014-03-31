@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>HTML5 Audio Player With Playlist</title>
+	<link rel="stylesheet" href="css/main.css" />
+</head>
+<body>
+
+	<div class="wrap">
+		<div class="player">
+			<div class="thong-tin-bai-hat">
+					<h3 class="tenbaihat">Tên Bài Hát</h3>
+					<h4 class="trinhbay">Tên Ca Sĩ</h4>
+			</div><!--/.info-->
+
+			<div class="control">
+				<div class="time">
+					<div class="fill"></div>
+					<input type="range" id="seek" value="0" max="100"/>
+				</div>
+
+				<div class="clearfix">
+					<a href="#" id="prev"><i class="fa fa-step-backward"></i></a>
+					<a href="#" id="play"><i class="fa fa-pause"></i></a>
+					<a href="#" id="next"><i class="fa fa-step-forward"></i></a>
+					<a href="#" id="stop"><i class="fa fa-stop"></i></a>
+
+					<div class="volume">
+						<div id="vol-fill"></div>
+						<input type="range" value="50" max="100"/>
+					</div>
+				</div>
+			</div><!--./control-->
+
+			<div class="playlist">
+				<ul></ul>
+			</div><!--/.playlist-->
+		</div><!--/.player-->
+	</div><!--/.wrap-->
+
+	<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="js/player.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

@@ -1,2 +1,2 @@
-html5-audio-player-with-playlist
+HTML5 Audio Player with playlist
 ================================
